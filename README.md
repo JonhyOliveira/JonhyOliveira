@@ -16,3 +16,5 @@ Currently I'm:
 ![](https://komarev.com/ghpvc/?username=JonhyOliveira&color=blue&style=flat-square)
 
 ⬅️ You can reach out to me through my contacts on the left
+
+... or my faculty's contact: jfv.oliveira@campus.fct.unl.pt
