@@ -5,7 +5,7 @@ Welcome to my profile! I'm a portuguese 🇵🇹 developer.
 Currently I'm:
 
 - 👨‍🎓 **studying CS** @ NOVA School of Science & Technology! 
-- 🧠 Researching: building a web framework for [Braid](https://www.braid.org), CRDTs.
+- 
 - 🌟 Looking for stuff to learn and/or do
 
 | Stuff I'm proficient in |
