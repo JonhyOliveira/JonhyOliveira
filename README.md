@@ -1,6 +1,6 @@
 # Olá!
 
-Welcome to my profile! I'm a portuguese 🇵🇹 developer. 
+Welcome to my profile! I'm a portuguese 🇵🇹 software developer. 
 
 Currently I'm:
 
