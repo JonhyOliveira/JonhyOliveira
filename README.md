@@ -5,7 +5,7 @@ Welcome to my profile! I'm a portuguese 🇵🇹 software developer.
 Currently I'm:
 
 - 👨‍🎓 **studying CS** @ NOVA School of Science & Technology! - 4th year of Integrated Masters' Degree in CS.
-- :diving_mask: **part-timing** @ 42 School in Lisbon
+- :diving_mask: **part-time** studying @ 42 School in Lisbon
 - 🌟 Looking for stuff to learn and/or do
 
 | Stuff I can do |
