@@ -1,11 +1,11 @@
 # Olá!
 
-I am a portuguese 🇵🇹 Computer Sience student, eager to make stuff happen.
+I am a portuguese 🇵🇹 student, eager to make stuff happen.
 
 Currently I'm:
 
-- 👨‍🎓 **studying CS** @ NOVA School of Science & Technology! - 4th year of Integrated Masters' Degree.
-- 🤿 **part-time** studying @ 42 School, Lisbon.
+- 👨‍🎓 **studying CS** @ [NOVA School of Science & Technology](https://www.fct.unl.pt/)! - 4th year of Integrated Masters' Degree.
+- 🤿 **part-time** studying @ [42 Lisboa](https://www.42lisboa.com/).
 - 🔎 Interested in how Distributed Systems work.
 - 🌟 Looking for stuff to colaborate on. Hit me up.
 
