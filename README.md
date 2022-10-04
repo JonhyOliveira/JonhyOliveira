@@ -18,6 +18,7 @@ Currently I'm:
 <img align=center src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/tux-icon.png" height="48">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="36">
 <img align=center src="https://img.icons8.com/plasticine/100/000000/bash.png" height="56">
+<img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="36">
 </div>
 
 ### I have experience with...
@@ -25,7 +26,6 @@ Currently I'm:
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="36">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="36"> 
 <img align=center src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png" height="42">
-<img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="36">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="36">
 <img align=center src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="36">
 <p>
