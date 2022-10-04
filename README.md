@@ -19,6 +19,7 @@ Currently I'm:
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="36">
 <img align=center src="https://img.icons8.com/plasticine/100/000000/bash.png" height="56">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="36">
+<img align=center src="https://miro.medium.com/max/512/1*_k03xX-BaT4I-kDwl5bz2g.png" height="48">
 </div>
 
 ### I have experience with...
