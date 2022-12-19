@@ -32,7 +32,6 @@ Currently I'm:
 <p>
 </div>
 
-### Top 3 Languages
 <!--- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonhyOliveira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> --->
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhyOliveira&layout=compact&langs_count=6&theme=prussian"/>
 
