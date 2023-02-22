@@ -1,34 +1,32 @@
 # Olá!
 
-I am a portuguese 🇵🇹 student, eager to make stuff happen.
+I am a portuguese 🇵🇹 student and developer, eager to make stuff happen.
 
 Currently I'm:
 
 - 👨‍🎓 **studying CS** @ [NOVA School of Science & Technology](https://www.fct.unl.pt/)! - 4th year of Integrated Masters' Degree.
-- 🤿 **part-time** studying @ [42 Lisboa](https://www.42lisboa.com/).
-- 🔎 Interested in Cloud ☁️ systems.
-- 🌟 Looking for stuff to colaborate on. Hit me up.
+- 🔎 Into web-focused 🕸️ distributed systems.
+- 🌟 Looking for stuff to colaborate on. Get in touch if you think you have something interesting.
 
-### I work with...
+Over the years I've used many languagues. 
+Right now I'm proficient in
 <div style="display: inline">
 <p>
 <img align=center src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="56">
-<!--- C++ in the future :) <img align=center src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="36"> --->
+<img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="36">
+<img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="36"> 
 <img align=center src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/tux-icon.png" height="48">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="36">
 <img align=center src="https://img.icons8.com/plasticine/100/000000/bash.png" height="56">
 </div>
 
-### I have experience with...
+I also have decent experience with
 <div style="display: inline">
-<img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="36">
-<img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="36"> 
 <img align=center src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png" height="42">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="36">
 <img align=center src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="36">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="36">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="36">
-<img align=center src="https://miro.medium.com/max/512/1*_k03xX-BaT4I-kDwl5bz2g.png" height="48">
 <p>
 </div>
 
