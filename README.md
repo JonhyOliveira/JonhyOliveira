@@ -8,8 +8,7 @@ Currently I'm:
 - 🔎 Into web-focused 🕸️ distributed systems.
 - 🌟 Looking for stuff to colaborate on. Get in touch if you think you have something interesting.
 
-Over the years I've used many languagues. 
-Right now I'm proficient in
+Over the years I've used many technologies, right now I'm proficient in
 <div style="display: inline">
 <p>
 <img align=center src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="56">
@@ -23,6 +22,7 @@ Right now I'm proficient in
 I also have decent experience with
 <div style="display: inline">
 <img align=center src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png" height="42">
+  <img align=center src="https://www.shareicon.net/data/256x256/2015/10/06/112724_development_512x512.png" height="42">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="36">
 <img align=center src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="36">
 <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="36">
