@@ -6,6 +6,7 @@ Currently I'm:
 
 - 👨‍🎓 **studying CS** @ [NOVA School of Science & Technology](https://www.fct.unl.pt/)! - 4th year of Integrated Masters' Degree.
 - 🔎 Into web-focused 🕸️ distributed systems.
+- :bug: Into security*
 - 🌟 Looking for stuff to colaborate on. Get in touch if you think you have something interesting.
 
 Over the years I've used many technologies, here are some of them
@@ -35,3 +36,5 @@ Over the years I've used many technologies, here are some of them
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonhyOliveira&layout=compact&langs_count=6&theme=prussian"/>
 
 ![](https://komarev.com/ghpvc/?username=JonhyOliveira&color=blue&style=flat-square)
+
+*I have no issues spending 3h triple-checking the configs of all the service running on my home lab
