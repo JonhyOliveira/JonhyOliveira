@@ -4,7 +4,7 @@ I am a portuguese 🇵🇹 student and developer, eager to make stuff happen.
 
 Currently I'm:
 
-- 👨‍🎓 **studying CS** @ [NOVA School of Science & Technology](https://www.fct.unl.pt/)! - 4th year of Integrated Masters' Degree.
+- 👨‍🎓 **studying CS** @ [NOVA School of Science & Technology](https://www.fct.unl.pt/) - 4th year of Integrated Masters' Degree.
 - 🔎 into web-focused 🕸️ distributed systems.
 - :bug: focused on security* 
 - 🌟 looking for stuff to colaborate on. Get in touch, even if it's out of my confort zone. I love a challenge.
