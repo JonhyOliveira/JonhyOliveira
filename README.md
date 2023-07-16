@@ -17,27 +17,28 @@ Over the years I've used many technologies, here are some of them
 <div style="display: inline">
   <p>
   <h4>Backend</h4>
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" height="36">
-  <img align=center src="https://www.shareicon.net/data/256x256/2015/10/06/112724_development_512x512.png" height="42">
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="36">
+  <img alt="Ruby on Rails" align=center src="https://rubyonrails.org/assets/images/favicon.ico" height="36">
+  <img alt="ExpressJS" align=center src="https://expressjs.com/images/favicon.png" height="32">
   
   <h4>Frontend</h4>
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="36">
-  <img align=center src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png" height="42">
-  <img align=center src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png" height="42">
+  <img alt="Javascript" align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="36">
+  <img alt="ReactJS" align=center src="https://legacy.reactjs.org/favicon.ico" height="42">
+  <img alt="Tailwind" align=center src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" height="42">
 
   <h4>Systems/Infrastructure</h4>
-  <img align=center src="https://cdn.iconscout.com/icon/free/png-256/redis-3-1175053.png" height="42">
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="42">
-  <img align=center src="https://swimburger.net/media/ppnn3pcl/azure.png" height="42">
-  <img align=center src="https://pcr.cloud-mercato.com/static/img/logos/aws.png" height="42">
-  <img align=center src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="42">
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" height="42">
+  <img alt="Redis" align=center src="https://redis.io/images/favicons/favicon-32x32.png" height="32">
+  <img alt="PostgreSQL" align=center src="https://www.postgresql.org/favicon.ico" height="42">
+  <img alt="Azure" align=center src="https://swimburger.net/media/ppnn3pcl/azure.png" height="42">
+  <img alt="AWS" align=center src="https://repost.aws/favicon-32x32.png" height="32">
+  <img alt="Docker" align=center src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-192x192.png" height="42">
+  <img alt="Kubernetes" align=center src="https://kubernetes.io/images/favicon.png" height="42">
   
   <h4>Tools</h4>
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="36">
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="36">
-  <img align=center src="https://img.icons8.com/plasticine/100/000000/bash.png" height="48">
+  <img alt="C" align=center src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="36">
+  <img alt="Python" align=center src="https://www.python.org/static/favicon.ico" height="36">
+  <img alt="Bash" align=center src="https://img.icons8.com/plasticine/100/000000/bash.png" height="48">
+  <img alt="Node JS" align=center src="https://nodejs.org/static/images/favicons/favicon.png" height="32">
+  <img alt="Typescript" align=center src="https://www.typescriptlang.org/favicon-32x32.png" height="32">
 </div>
 
 <!--- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonhyOliveira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> --->
