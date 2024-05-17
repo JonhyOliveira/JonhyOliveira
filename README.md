@@ -28,7 +28,7 @@ Over the years I've used many technologies, here are some of them
   <img alt="Tailwind" align=center src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" height="42">
 
   <!-- Systems/Infrastructure -->
-  <img alt="Redis" align=center src="https://redis.io/images/favicons/favicon-32x32.png" height="32">
+  <!-- FIXME img alt="Redis" align=center src="https://redis.io/images/favicons/favicon-32x32.png" height="32"-->
   <img alt="PostgreSQL" align=center src="https://www.postgresql.org/favicon.ico" height="42">
   <img alt="AWS" align=center src="https://repost.aws/favicon-32x32.png" height="32">
   <img alt="Docker" align=center src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-192x192.png" height="42">
