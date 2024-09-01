@@ -31,6 +31,7 @@ Over the years I've used many technologies, here are some of them
   <img alt="PostgreSQL" align=center src="https://www.postgresql.org/favicon.ico" height="42">
   <img alt="AWS" align=center src="https://repost.aws/favicon-32x32.png" height="32">
   <img alt="Docker" align=center src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-192x192.png" height="42">
+  <img alt="NixOS" align=center src="https://nixos.org/_astro/flake-blue.Bf2X2kC4_Z1yqDoT.svg" height="42">
   
   <!-- Tools -->
   <img alt="C" align=center src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="36">
