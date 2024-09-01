@@ -4,7 +4,6 @@ I am a portuguese 🇵🇹 student and developer, eager to make stuff happen.
 
 Currently I'm:
 
-- 👨‍🎓 **studying CS** @ [NOVA School of Science & Technology](https://www.fct.unl.pt/) - 4th year of Integrated Masters' Degree.
 - 👨‍💻 working software at [Hole 19](https://github.com/hole19) 🏌️
 - 🔎 into web-focused distributed systems.
 - :bug: focused on security
