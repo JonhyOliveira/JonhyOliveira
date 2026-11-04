@@ -1,6 +1,6 @@
 # Olá!
 
-I am a portuguese 🇵🇹 student and developer, eager to make stuff happen.
+I am a portuguese 🇵🇹 developer, eager to make stuff happen.
 
 Currently I'm:
 
